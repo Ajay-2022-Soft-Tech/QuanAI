@@ -15,7 +15,8 @@ QuanAI is a Flutter-based virtual assistant app that integrates speech recogniti
 
 ## Screenshots
 
-![App Screenshot](screenshot.png)
+<img src="https://github.com/Ajay-2022-Soft-Tech/QuanAI/assets/113298640/93bb407b-077b-4fd4-9c3c-b20f8701a502"  width="400" height="800" />
+
 
 ## Installation
 
