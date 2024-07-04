@@ -30,18 +30,17 @@ QuanAI is a Flutter-based virtual assistant app that integrates speech recogniti
    ```bash
    git clone https://github.com/your-username/your-repository.git
    cd your-repository
-Install dependencies:
-bash
-Copy code
-flutter pub get
-Usage
-Obtain API keys:
+### Install dependencies:
+   `flutter pub get`
+   
+`Uses`
+   Obtain API keys:
 
-OpenAI API: Visit OpenAI to obtain your API key.
-DALL-E API: Visit DALL-E to obtain your API key.
-Configure API keys:
+### OpenAI API: Visit OpenAI to obtain your API key.
+### DALL-E API: Visit DALL-E to obtain your API key.
+### Configure API keys:
 
-Create a .env file in the root directory.
+### Create a .env file in the root directory.
 Add your API keys to the .env file:
 makefile
 Copy code
