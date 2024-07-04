@@ -1,16 +1,28 @@
-# chat_gpt_clone
+# Assistant App using OpenAI and DALL-E APIs
 
-A new Flutter project.
+![App Demo](demo.gif)
 
-## Getting Started
+This repository contains an assistant app that integrates OpenAI's API for natural language processing and DALL-E's API for image generation. The app is designed to assist users with various tasks including text-based queries and image creation.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Natural Language Processing (NLP)**: Utilizes OpenAI's powerful API to understand and respond to user queries.
+- **Image Generation**: Integrates DALL-E's API to generate images based on text descriptions provided by the user.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Demo
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![App Screenshot](screenshot.png)
+
+## Prerequisites
+
+Before running the app, make sure you have the following installed:
+
+- Python 3.x
+- Required Python libraries (specified in `requirements.txt`)
+
+## Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-username/your-repository.git
+   cd your-repository
